@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/)
 
 ## contate-me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZctnqRhsBfkGzttbsbptCwbLRZFGGzHFhfSkHKbTHRlMsDFTqdvPkQVShmxVVLWpnFwQb)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=junioralves.jav%40gmail%2Ecom&su=ASSUNTO&body=CORPO&ui=2&tf=1)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+5511930197938)
 
 ## Redes Sociais
