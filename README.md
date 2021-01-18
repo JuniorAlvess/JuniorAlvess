@@ -1,6 +1,6 @@
 <h1 align="center"> <> </h1>
 
-### Sou apaixonado por tecnologia. Cursando o 4° semestre em análise e desenvolvimento de sistemas na universidade uninove, estudando e praticando com foco para que em um futuro próximo eu possa me tornar um excelente desenvolvedor front-end 👨‍💻.
+### Sou apaixonado por tecnologia. Cursando o 4° semestre em análise e desenvolvimento de sistemas na universidade uninove, estudando e praticando com foco para que em um futuro próximo eu possa me tornar um excelente desenvolvedor front-end. 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=JuniorAlvess&style=flat-square)
 
