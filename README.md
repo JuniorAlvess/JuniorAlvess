@@ -11,12 +11,12 @@ Estudando e praticando com foco para que eu possa me tornar o melhor que posso s
             <img src="https://github-readme-stats.vercel.app/api?username=JuniorAlvess&show_icons=true&theme=dark" /> 
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlvess&hide=php&layout=compact&theme=dark" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlvess&layout=compact&theme=dark" />
         </td>
     </tr>
 </table>
 
-## Tecnologias
+## Technologies
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -34,11 +34,11 @@ Estudando e praticando com foco para que eu possa me tornar o melhor que posso s
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/)
 [<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://about.gitlab.com/)
 
-## Contate-me
+## Contact me
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=junioralves.jav%40gmail%2Ecom&su=ASSUNTO&body=CORPO&ui=2&tf=1)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+5511930197938)
 
-## Redes Sociais
+## Social Networks
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ejalves/)
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/juniorr_alv)
