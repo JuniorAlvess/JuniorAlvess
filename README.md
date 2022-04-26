@@ -1,7 +1,7 @@
 <h1 align="center"> <> </h1>
 
 ### Desenvolvedor com vivência em startup. Minha principal stack é HTML, CSS, JavaScript, TypeScript,
-React.js, Node.js, Sass.
+### React.js, Node.js, Sass.
 Estudando e praticando com foco para que eu possa me tornar o melhor que posso ser. 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=JuniorAlvess&style=flat-square)
