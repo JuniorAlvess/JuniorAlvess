@@ -1,51 +1,59 @@
-<h1 align="center"> <> </h1>
+### Seja Bem vindo(a) ao meu perfil!👋
 
-### I am a developer with startup experience. My main stack is HTML, CSS, JavaScript, TypeScript, React.js, Node.js and Sass. 👨‍💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="50%" align="right">
 
-![](https://komarev.com/ghpvc/?username=JuniorAlvess&style=flat-square)
+Olá! Sou um desenvolvedor apaixonado por tecnologia e com grande interesse em inovação e novos desafios. Desde 2019, tenho aprimorado minhas habilidades em programação e me formei em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho (Uninove) em julho de 2021.
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=JuniorAlvess&show_icons=true&theme=dark" /> 
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlvess&layout=compact&theme=dark" />
-        </td>
-    </tr>
-</table>
+Minha principal stack é composta por JavaScript, TypeScript, React.js, Node.js e Sass. Tenho experiência em desenvolvimento de aplicações web, trabalhando em projetos desafiadores e colaborando com equipes multidisciplinares. 👨‍💻
 
-## Technologies
-    
-    
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" target="_blank" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" target="_blank" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" target="_blank" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" target="_blank" />](https://www.typescriptlang.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" target="_blank" />](https://www.php.net/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" target="_blank" />](https://pt-br.reactjs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" target="_blank" />](https://nodejs.org/en/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo" target="_blank" />](https://laravel.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo" target="_blank" />](https://sass-lang.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" target="_blank" />](https://www.mysql.com/)
-[<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank" />](https://styled-components.com/)
-    
+![](https://komarev.com/ghpvc/?username=JuniorAlvess&style=flat-square&style)
 
-## Tools
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" target="_blank" />](https://code.visualstudio.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" target="_blank" />](https://www.figma.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" target="_blank" />](https://git-scm.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo" target="_blank" />](https://github.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo" target="_blank" />](https://about.gitlab.com/)
-[<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank" />](https://insomnia.rest/download)
+### Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&style)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style)
+![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=61DAFB&style)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white&style)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&style)
+![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&style)
 
-## Contact me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=junioralves.jav%40gmail%2Ecom&su=ASSUNTO&body=CORPO&ui=2&tf=1)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />](https://wa.me/+5511930197938)
+### Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Gitlab](https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=gitlab&logoColor=white&style)
+![Jira](https://img.shields.io/badge/Jira-333333?style=for-the-badge&logo=Jira&logoColor=white&style)
 
-## Social Networks
+### Experiência de trabalho
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ejalves/)
-[<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/juniorr_alv)
+**Full Stack Developer** \
+[**CoreBiz**](https://www.corebiz.ag/) 06/2022 - present • Full-time \
+`• Manutenção em e-commerces legados utilizando HTML, CSS, JQuery, JavaScript ES6+`\
+`• Criação e manutenção de templates na plataforma VTEX (CMS)`\
+`• Desenvolvimento de páginas e integrações com API’s nativas e de terceiros`\
+`• Criação de páginas e componentes utilizando React.js`\
+`• Desenvolvimento/manutenção de componentes e páginas utilizando VTEX IO `\
+_Linguagens & Tecnologias:_ `TypeScript` · `React.js` · `Vtex` · `Vtex IO` · `SASS` · `JavaScript` · `JQuery` · `HTML5` · `CSS3` · `Git` · `GitFlow` · `Jira`\
+_Projetos em destaque:_ [Carrefour](https://www.carrefour.com.br/alameda-servico)
 
-<h2 align="center"> < / > </h2>
+**Full Stack Developer** \
+[**Bizsys**](https://www.bizsys.com.br/) 09/2021 - 06/2022 • Contract \
+`Desenvolvimento de aplicações web e projetos especias com React.js e Unity.`\
+_Linguagens & Tecnologias:_ `TypeScript` · `React.js` · `SASS` · `JavaScript` · `HTML5` · `CSS3` · `Git`\
+_Projetos em destaque:_ Black Friday - Mercado Livre
+
+<br />
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuniorAlvess&show_icons=true&theme=dark" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlvess&layout=compact&theme=dark" />
+</div>
