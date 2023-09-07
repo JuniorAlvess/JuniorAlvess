@@ -44,7 +44,7 @@ Minha principal stack é composta por JavaScript, TypeScript, React.js, Node.js 
 `• Criação de páginas e componentes utilizando React.js`\
 `• Desenvolvimento/manutenção de componentes e páginas utilizando VTEX IO `\
 _Linguagens & Tecnologias:_ `TypeScript` · `React.js` · `Vtex` · `Vtex IO` · `SASS` · `JavaScript` · `JQuery` · `HTML5` · `CSS3` · `Git` · `GitFlow` · `Jira`\
-_Projetos em destaque:_ [Carrefour](https://www.carrefour.com.br/alameda-servico)
+_Projetos em destaque:_ [Carrefour](https://www.carrefour.com.br/alameda-servicos)
 
 **Full Stack Developer** \
 [**Bizsys**](https://www.bizsys.com.br/) 09/2021 - 06/2022 • Contract \
