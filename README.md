@@ -43,13 +43,14 @@ Minha principal stack é composta por JavaScript, TypeScript, React.js, Node.js 
 `• Desenvolvimento de páginas e integrações com API’s nativas e de terceiros`\
 `• Criação de páginas e componentes utilizando React.js`\
 `• Desenvolvimento/manutenção de componentes e páginas utilizando VTEX IO `\
-_Linguagens & Tecnologias:_ `TypeScript` · `React.js` · `Vtex` · `Vtex IO` · `SASS` · `JavaScript` · `JQuery` · `HTML5` · `CSS3` · `Git` · `GitFlow` · `Jira`\
+_Linguagens & Tecnologias:_ `TypeScript` · `React.js` · · `GraphQL` · `Vtex` · `Vtex IO` · `SASS` · `JavaScript` · `JQuery` · `HTML5` · `CSS3` · `Git` · `GitFlow` · `Jira`\
 _Projetos em destaque:_ [Carrefour](https://www.carrefour.com.br/alameda-servicos)
 
 **Full Stack Developer** \
 [**Bizsys**](https://www.bizsys.com.br/) 09/2021 - 06/2022 • Contract \
-`Desenvolvimento de aplicações web e projetos especias com React.js e Unity.`\
-_Linguagens & Tecnologias:_ `TypeScript` · `React.js` · `SASS` · `JavaScript` · `HTML5` · `CSS3` · `Git`\
+`Desenvolvimento de páginas e integrações com API’s nativas e de terceiros`\
+`Criação de páginas e componentes utilizando TypeScript, React.js, Sass`\
+_Linguagens & Tecnologias:_ `TypeScript` · `React.js` · `API RESTful` · `SASS` · `JavaScript` · `HTML5` · `CSS3` · `Git`\
 _Projetos em destaque:_ Black Friday - Mercado Livre
 
 <br />
