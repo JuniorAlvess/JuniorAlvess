@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="50%" align="right">
 
-Olá! Sou um desenvolvedor apaixonado por tecnologia e com grande interesse em inovação e novos desafios. Desde 2019, tenho aprimorado minhas habilidades em programação e me formei em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho (Uninove) em julho de 2021.
+Desenvolvedor Frontend apaixonado por tecnologia e inovação, com 3 anos de experiência em desenvolvimento web, destacando-se em projetos desafiadores e colaborando efetivamente em equipes multidisciplinares. Principal stack TypeScript, React.js, NextJs, GraphQL.
 
-Minha principal stack é composta por JavaScript, TypeScript, React.js, Node.js e Sass. Tenho experiência em desenvolvimento de aplicações web, trabalhando em projetos desafiadores e colaborando com equipes multidisciplinares. 👨‍💻
+Experiência recente inclui manutenção e desenvolvimento de e-commerce na plataforma VTEX para o Carrefour, onde trabalhei por um ano com TypeScript, ReactJs, NextJs, tailwind, VtexIO, FastStore e GraphQL. 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=JuniorAlvess&style=flat-square&style)
 
