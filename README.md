@@ -37,7 +37,7 @@ Experiência recente inclui manutenção e desenvolvimento de e-commerce na plat
 ### Experiência de trabalho
 
 **Full Stack Developer** \
-[**CoreBiz**](https://www.corebiz.ag/) 06/2022 - present • Full-time \
+[**CoreBiz**](https://www.corebiz.ag/) 06/2022 - 03/2024 • Full-time \
 `• Manutenção em e-commerces legados utilizando HTML, CSS, JQuery, JavaScript ES6+`\
 `• Criação e manutenção de templates na plataforma VTEX (CMS)`\
 `• Desenvolvimento de páginas e integrações com API’s nativas e de terceiros`\
