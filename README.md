@@ -36,6 +36,15 @@ Experiência recente inclui manutenção e desenvolvimento de e-commerce na plat
 
 ### Experiência de trabalho
 
+**Frontend Developer** \
+[**Wefit**](https://wefit.com.br/) 04/2024 - 02/2025 • Contract \
+`• Desenvolvimento e manutenção de interfaces intuitivas e eficientes com React, TypeScript, Styled-components e Material UI`\
+`• Implementação de testes automatizados com Cypress, assegurando a qualidade e robustez do código `\
+`• Desenvolvimento de páginas e integrações com API’s nativas e de terceiros`\
+`• Automação de processos de deploy e integração contínua em ambientes Azure, utilizando práticas de CI/CD `\
+`• Colaboração próxima com equipes multifuncionais para entregar soluções escaláveis e de alto desempenho `\
+_Linguagens & Tecnologias:_ `TypeScript` · `React.js`  · `SASS` · `JavaScript` · `Material UI` · `Styled-components` · `Git` · `GitFlow` · `Azure`
+
 **Full Stack Developer** \
 [**CoreBiz**](https://www.corebiz.ag/) 06/2022 - 03/2024 • Full-time \
 `• Manutenção em e-commerces legados utilizando HTML, CSS, JQuery, JavaScript ES6+`\
